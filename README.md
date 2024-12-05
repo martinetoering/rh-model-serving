@@ -5,7 +5,7 @@
 ## token-classifcation-onnx-gliner
 
 ```python
-python call_endpoint_text.py --url https://onnx-gliner-martine-demo-single-model.apps.rosa.rosa-jxx8z.wlcq.p3.openshiftapps.com --model token-classification-onnx-gliner
+python call_endpoint_text.py --url https://onnx-gliner-martine-demo-single-model.apps.rosa.rosa-jxx8z.wlcq.p3.openshiftapps.com --model onnx-gliner
 ```
 
 # Multi-model
