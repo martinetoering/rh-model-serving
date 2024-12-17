@@ -38,7 +38,7 @@ def move_s3_folder(s3_folder: str, new_s3_folder: str):
 
 if __name__ == "__main__":
     # Usage example
-    s3_folder = "huggingface_models_martine/timm/res2next50.in1k/"
-    new_s3_folder = "/huggingface_models_martine/timm/res2next50.in1k/1/"
+    s3_folder = "huggingface_models_martine/BAAI/bge-small-en-v1.5/onnx/"
+    new_s3_folder = "huggingface_models_martine/BAAI/bge-small-en-v1.5/onnx/1"
 
     move_s3_folder(s3_folder, new_s3_folder)
